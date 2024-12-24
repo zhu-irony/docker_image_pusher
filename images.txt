@@ -1,1 +1,7 @@
 milvusdb/milvus:master-20241111-83d2729f-gpu-amd64
+flowable/flowable-ui:latest
+flowable/flowable-idm:latest
+flowable/flowable-task:latest
+flowable/flowable-modeler:latest
+flowable/flowable-admin:latest
+flowable/flowable-database:latest
