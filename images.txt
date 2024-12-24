@@ -5,3 +5,4 @@ flowable/flowable-task:latest
 flowable/flowable-modeler:latest
 flowable/flowable-admin:latest
 flowable/flowable-database:latest
+mysql:5.7
