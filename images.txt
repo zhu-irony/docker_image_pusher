@@ -1,1 +1,27 @@
 mysql:5.7
+ langgenius/dify-api
+ langgenius/dify-web
+ postgres
+ redis
+ langgenius/dify-sandbox
+ langgenius/dify-plugin-daemon
+ ubuntu/squid
+ certbot/certbot
+ nginx
+ semitechnologies/weaviate
+ langgenius/qdrant
+ pgvector/pgvector
+ tensorchord/pgvecto-rs
+ ghcr.io/chroma-core/chroma
+ oceanbase/oceanbase-ce
+ container-registry.oracle.com/database/free
+ quay.io/coreos/etcd
+ minio/minio
+ milvusdb/milvus
+ opensearchproject/opensearch
+ opensearchproject/opensearch-dashboards
+ opengauss/opengauss
+ myscale/myscaledb
+ docker.elastic.co/elasticsearch/elasticsearch
+ docker.elastic.co/kibana/kibana
+ downloads.unstructured.io/unstructured-io/unstructured-api
