@@ -1,1 +1,1 @@
-formio/formio:latest
+formio/formio:4.5.5
